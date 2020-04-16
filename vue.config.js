@@ -1,5 +1,6 @@
 module.exports = {
     publicPath: "./",
     assetsDir: "",
-    outputDir: "dist"
+    outputDir: "docs",
+    indexPath:'index.html'
   }
